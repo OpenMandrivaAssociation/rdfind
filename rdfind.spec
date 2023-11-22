@@ -7,6 +7,7 @@ URL: https://github.com/pauldreik/rdfind
 # Also https://rdfind.pauldreik.se/
 License: GPL-2.0
 Group: System
+BuildRequires: pkgconfig(nettle)
 
 %description
 Rdfind is a program that finds duplicate files. It is useful for compressing
