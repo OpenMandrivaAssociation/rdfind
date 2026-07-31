@@ -1,5 +1,5 @@
 Name: rdfind
-Version: 1.6.0
+Version: 1.8.0
 Release: 1
 Source0: https://rdfind.pauldreik.se/rdfind-%{version}.tar.gz
 Summary: Utility for finding duplicate files
